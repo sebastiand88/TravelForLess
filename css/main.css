@@ -38,3 +38,9 @@ i:hover {
   width: 100%;
   position: absolute;
 }
+
+@media screen and (max-width: 992px) {
+  .brand-logo {
+    font-size: 18px !important;
+  }
+}
